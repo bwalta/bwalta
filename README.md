@@ -5,7 +5,7 @@
 ### Ben Walta · Solo Builder · Founder of Aeopilot
 
 [![Website](https://img.shields.io/badge/website-bwalta.github.io-0A0A0A?style=for-the-badge&labelColor=0A0A0A)](https://bwalta.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ben%20Walta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-walta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ben%20Walta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-walta-b50b99362/)
 [![GitHub](https://img.shields.io/badge/GitHub-@bwalta-181717?style=for-the-badge&logo=github)](https://github.com/bwalta)
 
 </div>
