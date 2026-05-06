@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="@bwalta — Apps · AI · Automation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A0A0A"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0A0A0A"/>
+    </linearGradient>
+    <radialGradient id="blob1" cx="220" cy="160" r="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0066FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0066FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob2" cx="900" cy="200" r="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A855F7" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob3" cx="600" cy="80" r="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#EC4899" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="text" x1="0" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.6" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#0066FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#blob1)"/>
+  <rect width="1200" height="320" fill="url(#blob2)"/>
+  <rect width="1200" height="320" fill="url(#blob3)"/>
+
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <text x="80" y="160" font-size="92" font-weight="800" fill="url(#text)" letter-spacing="-3">@bwalta</text>
+    <text x="84" y="210" font-size="22" font-weight="500" fill="#E5E7EB" letter-spacing="2">APPS · AI · AUTOMATION</text>
+    <text x="84" y="252" font-size="16" font-weight="400" fill="#9CA3AF">Building small, useful software solo. Currently shipping mobile &amp; AI tools.</text>
+  </g>
+
+  <g opacity="0.85">
+    <circle cx="1080" cy="80" r="6" fill="#0066FF"/>
+    <circle cx="1110" cy="80" r="6" fill="#A855F7"/>
+    <circle cx="1140" cy="80" r="6" fill="#EC4899"/>
+  </g>
+</svg>
